@@ -30,6 +30,9 @@ The objective is to model and predict employee attrition, enabling the company t
 - **Machine Learning Model Development**:
   - Developed and evaluated multiple machine learning models, including Logistic Regression, SVM, XGBoost, and Neural Networks.
   - Achieved a notable accuracy of 92% with the XGBoost model.
+  - Implemented feature selection using Variance Inflation Factor (VIF) to remove highly collinear features.
+  - Developed machine learning models including logistic regression, SVM, XGBoost, and neural networks MLP classifier with hyperparameter tuning to predict employee attrition and also evaluated models using 
+     accuracy, AUC-ROC, confusion matrix.
 
 - **Comprehensive Reporting**:
   - Consolidated research findings and data analysis into a detailed LaTeX report.
